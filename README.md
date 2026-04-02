@@ -16,8 +16,6 @@ A modern, React-style Streamlit application that helps users analyze their resum
 ### Sign UP
 <img width="1094" height="857" alt="image" src="https://github.com/user-attachments/assets/b3d702f9-aaeb-45b2-b9b5-955b4f9c067c" />
 
-### Login 
-
 ### 📊 Dashboard
 <img width="1600" height="725" alt="image" src="https://github.com/user-attachments/assets/2e9406e6-4b46-411d-b8a7-f6b4d7ec3032" />
 
