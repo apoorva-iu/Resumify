@@ -6,6 +6,39 @@ A modern, React-style Streamlit application that helps users analyze their resum
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.51.0-red)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
+
+## 📸 Project Preview
+> 🚀 A quick look at the Resumify platform in action:
+
+### 🏠 Homepage
+<img width="1600" height="639" alt="image" src="https://github.com/user-attachments/assets/56e487ec-10e5-41c6-ae16-a31d41925f25" />
+
+
+### 📊 Dashboard
+![Dashboard](images/Dashboard.jpeg)
+
+### 💼 Resume Analysis
+![Resume Analysis](images/Analyse-1.jpeg)
+![Resume Analysis 2](images/Analyse-2.jpeg)
+
+### 🤖 AI Chatbot
+![Chatbot](images/Chatbot.jpeg)
+
+### 💡 Job Recommendation
+![Job Recommendation](images/Job Rec.jpeg)
+
+### 🎤 Mock Interview
+![Mock Interview](images/Mock interview.jpeg)
+![Mock Result](images/Mock-Result.jpeg)
+
+### 📚 Skill Hub
+![Skill Hub](images/SkillHub.jpeg)
+
+### 🔐 Authentication
+![Signup](images/Signup.jpeg)
+![New Password](images/New password.jpeg)
+
+
 ## ✨ Features
 
 ### 🔐 **Authentication System**
