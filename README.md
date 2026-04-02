@@ -1,4 +1,4 @@
-# 🚀 Resumify AI - Career Development Platform
+<img width="1517" height="861" alt="image" src="https://github.com/user-attachments/assets/519ac8c5-8fe1-479d-badc-737543f344c8" /># 🚀 Resumify AI - Career Development Platform
 
 A modern, React-style Streamlit application that helps users analyze their resumes, identify skill gaps, and access curated learning resources to boost their careers.
 
@@ -13,30 +13,39 @@ A modern, React-style Streamlit application that helps users analyze their resum
 ### 🏠 Homepage
 <img width="1600" height="639" alt="image" src="https://github.com/user-attachments/assets/56e487ec-10e5-41c6-ae16-a31d41925f25" />
 
+### Sign UP
+<img width="1094" height="857" alt="image" src="https://github.com/user-attachments/assets/b3d702f9-aaeb-45b2-b9b5-955b4f9c067c" />
+
+### Login 
 
 ### 📊 Dashboard
-![Dashboard](images/Dashboard.jpeg)
+<img width="1600" height="725" alt="image" src="https://github.com/user-attachments/assets/2e9406e6-4b46-411d-b8a7-f6b4d7ec3032" />
+
 
 ### 💼 Resume Analysis
-![Resume Analysis](images/Analyse-1.jpeg)
-![Resume Analysis 2](images/Analyse-2.jpeg)
+<img width="1600" height="702" alt="image" src="https://github.com/user-attachments/assets/d7c9090a-2119-4ce5-b094-e14fb2ca2d9e" />
 
-### 🤖 AI Chatbot
-![Chatbot](images/Chatbot.jpeg)
+<img width="1600" height="712" alt="image" src="https://github.com/user-attachments/assets/a51d76bc-dbc4-4f76-8099-170da57fc028" />
 
-### 💡 Job Recommendation
-![Job Recommendation](images/Job Rec.jpeg)
-
-### 🎤 Mock Interview
-![Mock Interview](images/Mock interview.jpeg)
-![Mock Result](images/Mock-Result.jpeg)
 
 ### 📚 Skill Hub
-![Skill Hub](images/SkillHub.jpeg)
+<img width="1517" height="861" alt="image" src="https://github.com/user-attachments/assets/dfd61d0f-d1ae-43bc-ac7a-f145d6ea52f2" />
 
-### 🔐 Authentication
-![Signup](images/Signup.jpeg)
-![New Password](images/New password.jpeg)
+
+### 💡 Job Recommendation
+<img width="1600" height="732" alt="image" src="https://github.com/user-attachments/assets/9bf078ae-59d1-4619-8471-7fce1a481e98" />
+
+
+### 🤖 AI Chatbot
+<img width="1600" height="726" alt="image" src="https://github.com/user-attachments/assets/02afc851-7011-4f32-982f-d8aebae09f5f" />
+
+
+### 🎤 Mock Interview
+<img width="1600" height="652" alt="image" src="https://github.com/user-attachments/assets/a637d487-0f36-4b75-bfa5-91c914d0d062" />
+
+<img width="1600" height="689" alt="image" src="https://github.com/user-attachments/assets/a348a272-e89d-4439-9752-5ce5ad98caa7" />
+
+<img width="1600" height="599" alt="image" src="https://github.com/user-attachments/assets/11f1058c-7590-4bbd-879c-01b47d038b60" />
 
 
 ## ✨ Features
