@@ -1,4 +1,4 @@
-<img width="1517" height="861" alt="image" src="https://github.com/user-attachments/assets/519ac8c5-8fe1-479d-badc-737543f344c8" /># 🚀 Resumify AI - Career Development Platform
+# 🚀 Resumify AI - Career Development Platform
 
 A modern, React-style Streamlit application that helps users analyze their resumes, identify skill gaps, and access curated learning resources to boost their careers.
 
